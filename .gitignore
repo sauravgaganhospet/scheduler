@@ -1,0 +1,13 @@
+# Node / JS
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Env / secrets
+.env
+
+# macOS
+.DS_Store
